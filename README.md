@@ -1,15 +1,17 @@
+# Version Control Best Practices for LAC Projects
 
-## Best Practices Demonstrated
-- Clean and organized repo structure  
-- Proper branch and merge workflow  
-- Clear, meaningful commit messages  
-- Collaboration using pull requests  
-- Documentation and transparency  
+This project demonstrates how to use Git and GitHub effectively in a collaborative environment, following best practices for version control in LAC (Learning and Collaboration) projects.
 
-## Tools Used
-- Git  
-- GitHub  
-- Python 3  
+## Project Structure
+/docs – contains documentation
+/src – contains main code
+/team – contains team member details
+
+
+## Features
+- Demonstrates use of branches, commits, and pull requests.
+- Includes documentation and code example.
+- Organized folder structure for clarity.
 
 ## Execution
-To run the sample program
+To run:

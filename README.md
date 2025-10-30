@@ -15,3 +15,4 @@ This project demonstrates how to use Git and GitHub effectively in a collaborati
 
 ## Execution
 To run:
+_Maintained by Bommaraju Haritha and team for LAC project demonstration._
